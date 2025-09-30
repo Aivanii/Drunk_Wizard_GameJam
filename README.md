@@ -32,7 +32,7 @@ This repository contains our 3-day game jam project. The core idea, mechanics, a
 | **Team Lead** | Leadership, Testing, Idea Design | Aivanii |
 | **Lead Programmer** | Core Programming, Art | Wadoil |
 | **Lead Artist** | Pixel Art, Programming | 0ladiy |
-| **Generalist** | Art, Various Tasks | artiomsurovcev-lgtm |
+| **Generalist** | Art, Various Tasks | mugutdinovalmir47-crypto |
 | **Programmer** | Programming, Art | artiomsurovcev-lgtm |
 | **Generalist** | Various Tasks, Idea Design, Testing | bambaleylaorigin |
 
